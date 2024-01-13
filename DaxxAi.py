@@ -258,3 +258,4 @@ async def Daxxprivatesticker(client: Client, message: Message):
                
 
 client.run()
+print("Hogya Start")
